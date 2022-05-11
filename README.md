@@ -8,7 +8,7 @@
 - [] Deve ser possivel  obter dados da conta do cliente
 - [] Deve ser possivel  deletar uma conta
 
-### REGAS DE NEGOCIO
+### REGRAS DE NEGOCIO
 - [x] Não deve ser possivel cadastrar uma conta com CPF já existente
 - [] Não deve ser possivel fazer depoisito em cona não existente
 - [] Não deve ser possivel buscar extrato de uma conta inexistente

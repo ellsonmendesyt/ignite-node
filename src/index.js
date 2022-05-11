@@ -45,6 +45,19 @@ app.get('/statement/:cpf',(req,res)=>{
 })
 
 
+app.get('/statement',(req,res)=>{
+    const {cpf}=req.headers;
+     if(!cpf)return res.status(400).json({error:"cpf is required"});
+   
+       const customer= customers.find(customer=>customer.cpf===cpf);
+       if(!customer)return res.status(400).json({error:"customer not found"});
+   
+       const {statement}=customer;
+       res.json({statement})
+   
+   })
+
+
 
 
 
