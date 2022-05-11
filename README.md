@@ -1,6 +1,6 @@
 ### REQUISITOS | FEATURES
 - [x] Deve ser possivel criar uma conta
-- [] Deve ser possivel  buscr o extrato bancario do cliente
+- [x] Deve ser possivel  buscr o extrato bancario do cliente
 - [] Deve ser possivel  realizer um deposito
 - [] Deve ser possivel  realizar um saque
 - [] Deve ser possivel  buscar o extrato bancario do cliente por data
@@ -10,7 +10,7 @@
 
 ### REGRAS DE NEGOCIO
 - [x] Não deve ser possivel cadastrar uma conta com CPF já existente
-- [] Não deve ser possivel fazer depoisito em cona não existente
+- [x] Não deve ser possivel fazer depoisito em cona não existente
 - [] Não deve ser possivel buscar extrato de uma conta inexistente
 - [] Não deve ser possivel fazer um saque em conta inexistente
 - [] Não deve ser possivel exlucir uma conta inexistente
