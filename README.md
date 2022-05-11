@@ -1,6 +1,6 @@
 ### TESTING OUR API
 
-<img src="./demo.gif" alt="demo " width="450" />
+<img src="./demo.gif" alt="demo " width="750" />
 
 
 ### REQUISITOS | FEATURES
