@@ -1,5 +1,5 @@
 ### TESTING OUR API
-![demo]('./demo.gif')
+![demo]('demo.gif')
 
 
 ### REQUISITOS | FEATURES
