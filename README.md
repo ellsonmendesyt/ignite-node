@@ -1,7 +1,7 @@
 ### TESTING OUR API
 
 <img src="./demo.gif" alt="demo " width="750" />
-=======
+
 <video src='./demo.mp4' controls width='300' >
 
 <img src="demo.gif"  alt="demo" width="600">
