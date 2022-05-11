@@ -2,9 +2,7 @@
 
 <img src="./demo.gif" alt="demo " width="750" />
 
-<video src='./demo.mp4' controls width='300' >
 
-<img src="demo.gif"  alt="demo" width="600">
 
 ### REQUISITOS | FEATURES
 - [x] Deve ser possivel criar uma conta
