@@ -1,7 +1,11 @@
 ### TESTING OUR API
+<<<<<<< HEAD
 
 <img src="./demo.gif" alt="demo " width="750" />
-
+=======
+<video src='./demo.mp4' controls width='300' >
+>>>>>>> parent of a79f578 (feat: demo)
+<img src="demo.gif"  alt="demo" width="600">
 
 ### REQUISITOS | FEATURES
 - [x] Deve ser possivel criar uma conta
