@@ -1,5 +1,5 @@
 ### TESTING OUR API
-![demo]('demo.gif')
+![demo]('https://github.com/ellsonmendesyt/ignite-node/blob/master/demo.gif')
 
 
 ### REQUISITOS | FEATURES
