@@ -26,9 +26,9 @@ const newCustomer={name,cpf,id:uuid(),statement:[]}
 
 if(customerAlreadyExist) res.status(400).send({error:"customer already exist"});
 
-customers.status(201).push(newCustomer);
+customers.push(newCustomer);
 
-res.json({newCustomer})
+res.status(201).json({newCustomer})
 })
 
 
