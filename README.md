@@ -1,5 +1,5 @@
 ### TESTING OUR API
-<video src='./demo.mp4' controls width='300' >
+<video src='https://github.com/ellsonmendesyt/ignite-node/blob/master/demo.mp4'  width='300' ></video>
 
 
 ### REQUISITOS | FEATURES
